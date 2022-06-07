@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ProjetjspGEST:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ProjetjspGEST</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ProjetjspGEST-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ProjetjspGEST:war exploded" />
+    </root>
+  </artifact>
+</component>
